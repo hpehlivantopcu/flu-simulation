@@ -66,8 +66,3 @@ Change it to `1000` to see results quickly while developing.
 - **SIR vs Simulation comparison plot**: Shows where SIR diverges
 
 ---
-
-## Add to GitHub
-1. New repo → `flu-simulation`
-2. Push everything in this folder
-3. Update link in `index.html`
